@@ -36,8 +36,8 @@ Résultat : tout le monde se trompe en sous-estimant le taux de filles qui finit
 
 Il y a pas mal de choses qui me gêne avec ça.
 
-Commentons d'abord la difficulté relative des questions. La 1ère demande d'estimer un chiffre : le taux de scolarisation pour des jeunes filles dans un ensemble de pays : les pays à bas-revenus. Comment cette notion est-elle définit ? Ce n'est indiqué à aucun moment ni dans le questionnaire, ni dans le livre, ni dans les notes (c'est une définition statistique de la banque mondiale).<br/>
-Est-ce qu'estimer le taux de scolarisation des filles à la fin du primaire d'un sous-groupe de pays flou est aussi difficile que donner la tendance mondiale d'un phénomène menaçant à moyen terme notre civilisation et dont la réponse est dans le nom du phénomène ("le réchauffement climatique") ?
+Commenton d'abord la difficulté relative des questions. La 1ère demande d'estimer un chiffre : le taux de scolarisation pour des jeunes filles dans un ensemble de pays : les pays à bas-revenus. Comment cette notion est-elle définit ? Ce n'est indiqué à aucun moment ni dans le questionnaire, ni dans le livre, ni dans les notes (c'est une définition statistique de la banque mondiale).<br/>
+Est-ce qu'estimer le taux de scolarisation des filles à la fin du primaire d'un sous-groupe de pays flou est aussi difficile que donner la tendance d'un phénomène mondial menaçant à moyen terme notre civilisation et dont la réponse est dans le nom du phénomène ("le réchauffement climatique") ?
 
 Pour que le niveau des questions soit plus proche on aurait pu demander :
 
@@ -114,7 +114,7 @@ Source : [The biomass distribution on Earth](https://www.pnas.org/content/115/25
 
 Hans avait raison, il faut se méfier des exemples soigneusement choisis ! les progrès sur ces 3 espèces ne sont pas du tout représentatif de la situation de l'ensemble de la biodiversité qui s'apparente plus, selon les scientifiques, à un anéantissement du vivant. Mais n'oublions pas qu'il y a plus de pandas :)
 
-# Un monde à deux bosses ou à une bosse ?
+# Un monde à 2 bosses ou mono-bosse ?
 
 On parle souvent des pays riches, développées, du Nord et des pays pauvres, en voie de développement, du Sud. Pour Hans Rosling cela n'a maintenant plus de sens:
 >There is no gap between the West and the Rest, between developed and developing, between rich and poor
@@ -158,8 +158,7 @@ Hans aborde la lutte contre la pauvreté avec ce graphique spectaculaire :
 
 <br/><br/>
 
-Il montre le déclin hallucinant de la pauvreté dans le monde qui est en effet une super nouvelle. Il y a néanmoins pas mal de problèmes avec ce graphique. Le sujet de la pauvreté est extrêmement complexe et ce graphique simplifie grandement la réalité. C'est un débat complexe et passionnant qui montre bien comment on peut le discours dominant sur la pauvreté est pollué d'idéologie. Je recommande de s'y plonger mais je ne le ferais pas faute de temps.
-
+Il montre le déclin hallucinant de la pauvreté dans le monde qui est en effet une super nouvelle. On peut voir que la proportion de personne qui reste en extrême pauvreté est quasimment nulle aujourd'hui. De nombreux chercheurs ont néanmoins signalé qu'il y avait pas mal de problèmes avec ce graphique. Le sujet de la pauvreté est extrêmement complexe, ce graphique simplifie grandement la réalité, et a été utilisé pour servir un discours politique. C'est un débat passionnant qui montre bien comment on peut le discours dominant sur la pauvreté est pollué d'idéologie et je recommande de s'y plonger mais je ne le ferais pas faute de temps.
 
 Pour commencer il faut lire cette [brillante critique](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty) du graphique de Jason Hickel (en anglais).
 
@@ -170,14 +169,10 @@ Pour commencer il faut lire cette [brillante critique](https://www.jasonhickel.o
 
 # Bilan
 
-Ce qui est plus gênant c'est que ce livre se réclame des faits. Et effectivement l'auteur cite des faits exacts.
-On pourrait écrire un bouquin appelé "Factfulness : Pourquoi le monde va **moins bien** que vous pensez" et la seule différence serait que les exemples seraient plus facile à trouver.
+J'ai commencé à lire ce livre avec un à priori positif étant donné tout ce que j'avais entendu dessus et je l'ai trouvé remarquable à ce moment là. Puis j'ai commencé à creuser certains sujets abordés et mes recherches personnelles me laissaient à chaque fois un goût amer. Ce livre est une sorte de conférence TED, et comme souvent dans les conférence TED quand on creuse, ça sonne vite creux. Les chiffres sont exacts mais ils sont parfois si décontextualisés et tordus qu'ils remettent en question l'honnêteté de l'auteur. Plus embêtant le choix des "faits" est troublant. Comment peut-on faire un livre sur l'état du monde en 2018 et en ne parlant quasiment pas des problèmes environnementaux ? Et lorsqu'on en parle c'est pour les annoncer qu'ils vont de mieux en mieux. On pourrait écrire un bouquin appelé "Factfulness : Pourquoi le monde va **moins bien** que vous pensez" et la seule différence serait que les exemples seraient plus faciles à trouver.
 
-J'ai commencé à lire ce livre avec un à priori positif étant donné tout ce que j'avais entendu dessus et je l'ai trouvé très remarquable à ce moment là. Puis j'ai commencé à creuser certains sujets abordés et mes recherches personnelles me laissaient à chaque fois un goût amer. Ce livre est une sorte de conférence TED, et comme souvent dans les conférence TED quand on creuse, ça sonne vite creux. Les chiffres sont exacts mais ils sont parfois si décontextualisés et tordus qu'il ne représente plus une version fidèle de la réalité. Plus embêtant le choix des "faits" est troublant. Comment peut-on faire un livre sur l'état du monde en 2018 et en ne parlant quasiment pas des problèmes environnementaux. Et lorsqu'on en parle c'est pour les annoncer qu'il vont de mieux en mieux. Ces recherches m'ont laissé un goût amer et je ne pense pas que les soient le fruit du hasard.
+Pourquoi ce choix éditorial ? La réponse est un gros mot pour Hans Rosling : l'idéologie. Et oui, Hans Rosling bien que se revendiquant objectif et donc imperméable à toute idéologie nous raconte bien une histoire. Et son idéologie est clair : "Oui tout n'est pas parfait mais globalement nous allons dans la bonne direction". C'est un vibrant appel à un statu quo, une défense du système actuel avec quelques pansements ici et là. Ce point de vue peut se défendre, mais ce qui est plus embêtant c'est quand on se pare d'objectivité pour rejeter toute critique, en allant jusqu'à déclarer : "These facts are not up to discussion", quand justement ces "faits" sont totalement discutables. Au final ce livre nous donne une leçon très précieuse, celle de se méfier des statistiques et de l'information de manière générale.
 
-
-Pourquoi ce choix éditorial ? La réponse pour moi est un gros mot pour Hans Rosling mais c'est pour moi clair et tout à fait normal : l'idéologie. Hans Rosling bien que se revendiquant objectif a une idéologie. Et son idéologie est clair : "Oui tout n'est pas parfait mais globalement nous allons dans la bonne direction". C'est un vibrant appel à un statu quo, à une défense du système actuel avec quelques pansements ici et là. Ce point de vue peut se défendre, mais ce qui est plus embêtant c'est quand on se pare d'objectivité pour rejeter toutes critiques : "These facts are not up to discussion". Au final ce livre nous donne une leçon très précieuse, celle de se méfier des statistiques.
-
-Pourquoi a-t-il eu un succès aussi immense ? Nous vivons tous dans ce monde dont nous faisons partie et particulièrement pour les plus vieux qui fait partie de notre identité. Hors les récentes crises écologiques, sociales, malgré ce qu'Hans en dit, remettent en question inéluctablement, profondément, ce monde. Et donc notre identité. C'est une situation extrêmement inconfortable à vivre et la manière la plus facile de la dépasser est de la déni. Ce livre offre donc l'échappatoire parfait à tout ceux qui font partie de ce monde pour éviter de se remettre en question. 
+Pourquoi a-t-il rencontré un succès aussi immense ? Nous faisons tous partie de ce monde, et inversement ce monde fait partie de notre identité. Ceci est particulièrement vrai pour les plus vieux d'entre nous. Hors les récentes crises écologiques, sociales, malgré ce qu'Hans en dit, remettent en question inéluctablement, profondément, ce monde. Et donc notre identité. C'est une situation extrêmement inconfortable à vivre et la manière la plus facile de la dépasser est de le déni. Ce livre offre donc l'échappatoire parfait à tout ceux (particulièrement les plus vieux, particulièrement les plus privilégiés) qui font partie de ce monde pour éviter une douloureuse remise en question. 
 
 Tout plein de motivation j'ai lu d'autres livres des "nouveaux optimistes" et si des gens sont intéressés je continuerais à partager mes sentiments dessus.
