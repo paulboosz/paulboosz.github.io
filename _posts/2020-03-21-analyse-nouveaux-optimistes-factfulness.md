@@ -116,7 +116,7 @@ Hans avait raison, il faut se méfier des exemples soigneusement choisis ! les p
 
 # Un monde à deux bosses ou à une bosse ?
 
-Pour Hans Rosling cela n'a maintenant plus de sens de parler de Nord et de Sud :
+On parle souvent des pays riches, développées, du Nord et des pays pauvres, en voie de développement, du Sud. Pour Hans Rosling cela n'a maintenant plus de sens:
 >There is no gap between the West and the Rest, between developed and developing, between rich and poor
 
 Sur ce point il est intraitable et enfonce le clou fermement :
