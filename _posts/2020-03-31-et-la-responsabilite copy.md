@@ -1,12 +1,33 @@
 ---
 layout: post
-title: "Factfulness de Hans Rosling : analyse d'un discours néo-optimiste"
+title: "La Grande Métaphore du Climat"
 comments: true
 keywords: ""
 description: ""
 ---
 
-Crise climatique, écologique, sociale, tensions géopolitiques, ces dernières années l'atmosphère médiatique est devenu de plus en plus anxiogène et le monde semble avoir sombré dans une humeur maussade. Tout le monde ? Non, un groupe de penseurs pourfend cette morosité ambiante et proclame au contraire que nous vivons dans la meilleure des époques. Selon eux, notre esprit est conditionné pour se focaliser sur les mauvaises nouvelles faisant les gros titres mais nous oublions que dans l'ombre, le monde devient de plus en plus riche, de plus en plus juste, de plus en plus beau. Ainsi ils nous exhortent à dépasser nos angoisses, à regarder les faits d'un oeil dépassionné pour constater que, même si tout n'est pas rose, le progrès avance.
+# Bon ça va, on va pas en faire toute une métaphore !
+
+
+## Toutes les métaphores sont fausses, certaines sont utiles
+
+Une métaphore, c'est une représentation de la réalité. C'est un modèle. En ce sens cela ne representera jamais exhaustivement toute la réalité. Le but c'est justement de rendre plus compréhensibles, quelque chose de complexe.
+
+
+## Quelles métaphores 
+
+On entend des métaphores sur le changement climatique. 
+
+> On va droit dans le mur
+
+> On est au bord du précipice 
+
+Est-ce qu'on peut faire mieux, à partir de ce que la science nous apprend de ce phénomène ?
+
+
+
+
+
 
 ![Factfulness](/assets/images/factfulness.jpg)
 
@@ -95,7 +116,7 @@ Par contre il développera ce qu'il n'aime pas chez les activistes climatiques :
 >Still, the volume on climate change keeps getting turned up. Many activists, convinced it is the only important global issue, have made it a practice to blame everything on the climate, to make it the single cause of all other global problems.
 [...] Most concerning is the attempt to attract people to the cause by inventing the term “climate refugees". My best understanding is that the link between climate change and migration is very, very weak
 
-Il est vrai que quantifier le nombre de migrants climatiques n'est pas chose aisé. Quitter sa terre n'est pas une décision légère, elle implique de devoir repartir de zéro dans un nouveau lieu, et souvent de perdre son habitation, ses attaches culturelles, son environnement social. De manière général les gens ne quittent leur maison que quand ils ont de très bonnes raisons. Il faut arriver à estimer le nombre de personnes dont le dérèglement climatique va rendre la vie si difficile qu'ils vont aller jusqu'à quitter leurs terres. Néanmoins des travaux sur ce sujet existent, que disent-ils ? 
+Il est vrai que quantifier le nombre de migrants climatiques, c'est à dire le nombre de personnes dont le dérèglement climatique va rendre la vie si difficile qu'ils vont aller jusqu'à quitter leurs terres est une tâche complexe. Néanmoins des travaux existent, que disent-ils ? 
 
 #### GIEC
 
@@ -109,7 +130,7 @@ other support services to accommodate the new arrivals.
 Epidemics may sweep through refugee camps and
 settlements, spilling over into surrounding communities
 
-Source : [IPCC 1990 (p.102)](https://www.ipcc.ch/site/assets/uploads/2018/05/ipcc_90_92_assessments_far_full_report.pdf)
+Source : [IPCC 1990 (p102)](https://www.ipcc.ch/site/assets/uploads/2018/05/ipcc_90_92_assessments_far_full_report.pdf)
 
 #### Christian Aid
 
@@ -121,7 +142,7 @@ Ce chiffre est expliqué dans une note :
 
 >Based on an updated figure calculated by Dr Norman Myers. In 1995, Dr Myers suggested that between 150 and 200 million people would have to permanently leave their homes because of climate change (Norman Myers and Jennifer Kent, Environmental Exodus, Climate Institute, 1995.) This was quoted last year in the UK Government’s Stern Review on the Economics of Climate Change, which described the estimate as being based on ‘conservative assumptions’. Dr Myers now believes that the true figure will be closer to 250 million. Christian Aid interview, 14 March, 2007
 
-Il y avait donc dès 1995 une estimation du nombre de migrants dans un papier scientifique (Norman Myers and Jennifer Kent, Environmental Exodus, Climate Institute, 1995). Ces chiffres ont été repris et parfois critiqué comme alarmiste (comme le fait implicitement Hans Rosling ici).
+Il y avait donc dès 1995 une estimation du nombre de migrants dans un papier scientifique (Norman Myers and Jennifer Kent, Environmental Exodus, Climate Institute, 1995). Ces chiffres ont été repris et parfois mis en doute (comme le fait Hans Rosling ici).
 
 #### Banque mondiale
 
@@ -233,7 +254,7 @@ On y voit le déclin vertigineux de la pauvreté dans le monde. Déclin dont on 
 
 - Cette spectaculaire réduction repose sur un seuil de pauvreté de 1,9$/jour. Cet indicateur est en $ parité pouvoir d'achat : aux Etats-Unis en 2011 cela correspond à 1,9$/jour mais dans un pays avec un coût de la vie plus bas ce serait encore moins. Ce seuil est depuis longtemps critiqué pour son inadéquation avec la réalité de la pauvreté. En effet ce niveau de revenu ne permet même pas à un individu de subvenir à ses besoins caloriques dans le cadre d'une activité normal.    [L'économiste David Woodward](https://newint.org/features/special/2010/07/01/poverty-line-definition) a calculé qu'au Royaume-Uni vivre à ce niveau de revenu reviendrait à vivre avec 33 autres personnes sur 1 salaire minimum, sans aucunes aides, cadeaux, prêts... (En effet toutes ces choses sont pris en compte dans les 1,9$).
 - Avant 1970 les données viennent d'une source différente avec une méthodologie différente qui n'est pas faite pour mesurer la pauvreté mais la distribution des PIBs entre pays. De ce fait, ces données ont d'importantes limitations qui ne permettent pas de les utiliser pour mesurer la pauvreté. Ce graphique devrait donc commencer en 1970.
-- On ne peut que se réjouir que la pauvreté diminue. Mais est-ce une bonne mesure du progrès de notre société ? D'un point de vue moral, on peut argumenter que ce qui compte n'est pas l'étendue de la pauvreté en soi mais l'étendue de la pauvreté _vis à vis de notre capacité à la faire disparaître_ (c'est l'approche proposé par le philosophe Thomas Pogge). Selon cette mesure l'histoire est radicalement différente. En effet, entre 1990 et 2013 notre capacité à mettre fin à la pauvreté (e.g. la proportion des revenus des non-pauvres nécessaire pour mettre fin à la pauvreté) a augmenté remarquablement plus vite que la pauvreté n'a diminué. En 1990, il aurait fallu 10,5% des revenus des non-pauvres pour mettre fin à la pauvreté ; en 2013 il suffit de 3,3%. Notre capacité à mettre fin à la pauvreté a donc été multiplié par 3,18. Dans la même période le taux de pauvreté n'a été réduit que d'un facteur 1,23. Ainsi, l'immoralité flagrante de notre société en 2013 est 2,58 fois pire qu'en 1990. La raison derrière cette désolante évolution est que l'immense majorité de la richesse supplémentaire créé entre 1990 et 2013 a été capté par les plus riches.
+- On ne peut que se réjouir que la pauvreté diminue. Mais est-ce une bonne mesure du progrès de notre société ? D'un point de vue moral, on peut argumenter que ce qui compte n'est pas l'étendue de la pauvreté en soi mais l'étendue de la pauvreté _vis à vis de notre capacité à la faire disparaître_ (c'est l'approche proposé par le philosophe Thomas Pogge). Selon cette mesure l'histoire est radicalement différente. En effet, entre 1990 et 2013 notre capacité à mettre fin à la pauvreté (e.g. la proportion des revenus des non-pauvres nécessaire pour mettre fin à la pauvreté) a augmenté remarquablement plus vite que la pauvreté n'a diminué. En 1990, il aurait fallu 10,5% des revenus des non-pauvres pour mettre fin à la pauvreté ; en 2013 il suffit de 3,3%. Notre capacité à mettre fin à la pauvreté a donc été multiplié par 3,18. Dans la même période le taux de pauvreté n'a été réduit que d'un facteur 1,23. Ainsi, l'immoralité flagrante de notre société en 2013 est 2,58 fois pire qu'en 1990. La raison derrière est que l'immense majorité de la richesse supplémentaire créé entre 1990 et 2013 a été capté par les plus riches.
 
 Pour mieux comprendre ce débat, je recommande de lire cette [brillante critique](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty) du graphique de Jason Hickel (en anglais) dont j'ai reproduit les arguments ici.
 
