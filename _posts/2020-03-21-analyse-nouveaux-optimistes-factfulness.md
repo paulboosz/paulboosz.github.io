@@ -215,8 +215,11 @@ Il y a en effet quelques choses à garder en tête par rapport à ce graphique:
 
 - Enfin les catégories Europe, Asie, Amériques, regroupent des pays très différents : Haiti est avec les Etats-Unis et l'Australie est avec le reste de l'Asie. Si l'on veut savoir si une division entre pays riches (global north) et pays pauvres (global south) existe, il faut regrouper les pays selon ces catégories.
 
-Que se passe-t-il si l'on regarde ces données différemment ? Répartissons les pays entre les pays riches (global north sur le graphique): Europe, USA, Canada, Japon, Australie, Nouvelle Zélande. Et groupons les pays restants par régions. Utilisons des dollars constants au lieu de PPA et utilisons une échelle linéaire plutôt que logarithmique en abcisses.
-Voilà ce qu'on obtient : 
+Que se passe-t-il si l'on regarde ces données différemment ? Répartissons les pays entre les pays riches (global north sur le graphique): Europe, USA, Canada, Japon, Australie, Nouvelle Zélande, et groupons les pays restants (global south) par régions. Utilisons des dollars constants au lieu de PPA et utilisons une échelle linéaire plutôt que logarithmique en abcisses.
+
+Quand on regarde la répartition de la richesse par habitant en 1960 et 2017, voilà ce qu'on obtient : 
+
+
 <br/><br/>
 ![2 bosses](/assets/images/twohumps2.png)
 *graphique de Huzaifa Zoomkawala*
