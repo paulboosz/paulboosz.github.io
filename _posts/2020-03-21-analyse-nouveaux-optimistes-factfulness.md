@@ -88,18 +88,20 @@ Et en plus la solution est facile :
 
 Pourtant malgré cela, malgré 30 ans d'alertes de scientifiques de plus en plus catastrophistes, malgré l'accord de Paris, les émissions mondiales ne cessent d'augmenter et seul [7 pays](https://www.globalcitizen.org/en/content/7-countries-paris-climate-agreeement/) respectent les trajectoires de l'accord de Paris, Pourquoi ? Hans Rosling ne développera pas plus cette question.<br/>
 
-### Ces militants climatiques qui cassent toujours l'ambiance
+Par contre il développera ce qu'il n'aime pas chez les activistes climatiques.
 
-Par contre il développera ce qu'il n'aime pas chez les activistes climatiques :
+### Ces militants climatiques qui cassent toujours l'ambiance
 
 >Still, the volume on climate change keeps getting turned up. Many activists, convinced it is the only important global issue, have made it a practice to blame everything on the climate, to make it the single cause of all other global problems.
 [...] Most concerning is the attempt to attract people to the cause by inventing the term “climate refugees". My best understanding is that the link between climate change and migration is very, very weak
 
-Il est vrai que quantifier le nombre de migrants climatiques n'est pas chose aisé. Quitter sa terre n'est pas une décision légère, elle implique de devoir repartir de zéro dans un nouveau lieu, et souvent de perdre son habitation, ses attaches culturelles, son environnement social. De manière général les gens ne quittent leur maison que quand ils ont de très bonnes raisons. Il faut arriver à estimer le nombre de personnes dont le dérèglement climatique va rendre la vie si difficile qu'ils vont aller jusqu'à quitter leurs terres. Néanmoins des travaux sur ce sujet existent, que disent-ils ? 
+Il est vrai que quantifier le nombre de migrants climatiques n'est pas chose aisé. Prévoir les conséquences concrètes du dérèglement climatique est déjà extrêmement complexe, prévoir le nombre d'humains qui vont migrer _à cause de ces conséquences_ ajoute un nouveau degré de complexité. Il faut prévoir la réponse d'humains face à une contrainte. On sait que quitter sa terre n'est pas une décision légère, elle implique de devoir repartir de zéro dans un nouveau lieu, de perdre son habitation, ses attaches culturelles, son environnement social et familial. Les habitants qui migreront ne le feront que face à un niveau de pression environmentale très fort et en prenant en compte d'autres facteurs comme la possibilité d'avoir une vie meilleure ailleurs.
+
+Même si cette tâche est très difficile, des travaux académiques sur ce sujet existent, que disent-ils ?
 
 #### GIEC
 
-En fait dès son 1er rapport en 1990, le GIEC (IPCC en anglais) a déclaré que la plus grave conséquence du changement climatique pourrait être les migrations :
+En fait dès son 1er rapport en 1990, le GIEC (IPCC en anglais) a déclaré que la plus grave conséquence du dérèglement climatique pourrait être les migrations :
 
 >The gravest effects of climate change may be those
 on human migration as millions are displaced by shoreline
@@ -110,6 +112,8 @@ Epidemics may sweep through refugee camps and
 settlements, spilling over into surrounding communities
 
 Source : [IPCC 1990 (p.102)](https://www.ipcc.ch/site/assets/uploads/2018/05/ipcc_90_92_assessments_far_full_report.pdf)
+
+On est en 1990, au tout début de l'étude du dérèglement climatique, il n'y a donc pas plus de précisions et de chiffres. Mais il est intéressant de voir que déjà cette époque, les chercheurs ont l'intuition que les conséquences les plus dramatiques seront les migrants climatiques.
 
 #### Christian Aid
 
@@ -125,13 +129,13 @@ Il y avait donc dès 1995 une estimation du nombre de migrants dans un papier sc
 
 #### Banque mondiale
 
-Néanmoins la banque mondiale dans [un rapport de 2018](https://www.worldbank.org/en/news/infographic/2018/03/19/groundswell---preparing-for-internal-climate-migration) prévoit plus de 140 millions de migrants climatiques en 2050 en Afrique subsaharienne, Asie du Sud et Amérique Latine. Ce sont des chiffres cohérents avec les premières estimations faites 20 ans plus tôt.
+Néanmoins la banque mondiale dans [un rapport de 2018](https://www.worldbank.org/en/news/infographic/2018/03/19/groundswell---preparing-for-internal-climate-migration) prévoit plus de 140 millions de migrants climatiques en 2050 en Afrique subsaharienne, Asie du Sud et Amérique Latine. Ce sont des chiffres du même ordre de grandeur que les premières estimations faites 20 ans plus tôt.
 
 Il est encore plus difficile de prévoir au delà de 2050 mais le GIEC prévoit que, sans action, d'ici 2080, entre 1,1 et 3,2 milliards de personnes souffriront de manque d'eau, 200-600 millions de la faim et 2-7 millions de submersions. Cela permet d'avoir un ordre de grandeur de l'ampleur du désastre. 
 
 #### Bilan
 
-Hans Rosling a raison sur un point : il n'y a malheureusement trop peu de moyens dans la recherche sur les conséquences du dérèglement climatique. Mais il a tort quand il affirme que le "lien entre dérèglement climatique et migration est très, très faible". Le lien est le suivant : quand un lieu devient invivable, ses habitants ont tendance à le quitter. Il existe jusqu'ici plusieurs estimations du nombre de migrants climatiques et les chiffres sont tous vertigineux. Ces estimations peuvent bien sûr être débattus, mais ce n'est pas ce que fait Hans Rosling ici, il se contente de balayer l'idée même qu'un lien entre dérèglement climatique et migration puisse exister, ce que je trouve très étonnant. Au contraire, une réaction saine devant la possibilité une catastrophe si démesurée serait d'appeler à une action toujours plus forte pour le climat (si tant est qu'une action ait commencé).
+Hans Rosling a raison sur un point : il n'y a malheureusement trop peu de moyens dans la recherche sur les conséquences humaines du dérèglement climatique. Mais il a tort quand il affirme que le "lien entre dérèglement climatique et migration est très, très faible". Le lien est le suivant : quand un lieu devient invivable, ses habitants ont tendance à le quitter. Il existe jusqu'ici plusieurs estimations du nombre de migrants climatiques et les chiffres sont tous vertigineux. Ces estimations peuvent bien sûr être débattus, mais ce n'est pas ce que fait Hans Rosling ici, il se contente de balayer l'idée même qu'un lien entre dérèglement climatique et migration puisse exister. Au contraire, une réaction saine devant la possibilité une catastrophe si démesurée serait d'appeler à une action toujours plus forte pour le climat (si tant est qu'une action ait commencé).
 
 # Tigres, pandas, rhinocéros et annihilation du vivant 
 
