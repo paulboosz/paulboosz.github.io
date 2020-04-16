@@ -45,9 +45,9 @@ Ce à quoi Hans conclut : vous voyez nous sommes vraiment des êtres irrationnel
 
 Pour conclure que les gens connaissent mieux les informations négatives que positives, il faut poser des questions d'un niveau équivalent. Examinons donc ces 2 questions.
 
-La 1ère demande d'estimer un chiffre : le taux de scolarisation pour des jeunes filles dans un ensemble de pays : les pays à bas-revenus. Comment cette notion est-elle définie ? Ce n'est indiqué à aucun moment ni dans le questionnaire, ni dans le livre, ni dans les notes (c'est une définition statistique de la banque mondiale).<br/>
+La 1ère demande d'estimer un chiffre : le taux de scolarisation pour des jeunes filles dans un ensemble de pays : les pays à bas-revenus. Qu'est ce que les pays à bas-revenus ? Comment sont-ils définis ? Ce n'est indiqué à aucun moment ni dans le questionnaire, ni dans le livre, ni dans les notes (c'est une définition statistique de la banque mondiale).<br/>
 
-Regardons maintenant la 2ème question. Ici on ne doit pas estimer un chiffre mais donner le sens du tendance ce qui est déjà plus facile. De plus le sujet de la question est un phénomène mondiale largement médiatisé depuis maintenant plus de 15 ans. Pourquoi ce phénomène est-il si médiatisé ? Est-ce légitime ? Etant donné l'ampleur sans précédente du phénomène et les estimations des scientifiques sur les menaces qu'il représente, on pourrait argumenter qu'il est sous-médiatisé. Ou plus précisément mal-médiatisé étant donné que la pédagogie du problème n'est pas faite. Si la pédagogie de ce problème complexe n'est quasiment pas faite dans les médias, le nom du phénomène lui est connu de tous. Cela tombe bien parce que la réponse à la question 2) est justement dans le nom de phénomène : "réchauffement climatique", il n'y a pas à chercher plus loin. Il apparaît alors clair que la 2ème question est largement plus facile que la 1ère question.
+Regardons maintenant la 2ème question. Ici on ne doit pas estimer un chiffre mais donner le sens d'une tendance ce qui est déjà plus facile. De plus le sujet de la question est un phénomène mondiale largement médiatisé depuis maintenant plus de 15 ans. Pourquoi ce phénomène est-il si médiatisé ? Est-ce légitime ? Etant donné l'ampleur sans précédente du phénomène et les estimations des scientifiques sur les menaces qu'il représente, on pourrait argumenter qu'il est sous-médiatisé. Ou plus précisément mal-médiatisé étant donné que la pédagogie du problème n'est pas faite. Si la pédagogie de ce problème complexe n'est quasiment pas faite dans les médias, le nom du phénomène lui est connu de tous. Cela tombe bien parce que la réponse à la question 2) est justement dans le nom de phénomène : "réchauffement climatique", il n'y a pas à chercher plus loin. Il apparaît alors clair que la 2ème question est largement plus facile que la 1ère question.
 
 Comment Hans aurait-il pu rendre son test plus équilibré ? Pour la question 1) il aurait pu demander une tendance. Et ne pas inclure dans la question de concept flou comme "les pays à bas-revenus", par exemple :
 
@@ -60,7 +60,7 @@ Dans ce cas difficile de croire qu'une majorité de personnes se trompent. Mais 
 
 ## La formulation de la question est-elle innocente ?
 
-Revenons à la question 1), les différentes réponses possibles ne sont pas anodines et exploite un effet bien connu des sondeurs. La 1ère proposition à 20%, puis la 2ème à 40% agissent comme des ancres et font apparaître la dernière proposition de **60%** comme plus impressionnante.
+Revenons à la question 1), les différentes réponses possibles ne sont pas anodines et exploitent un effet bien connu des sondeurs. La 1ère proposition à 20%, puis la 2ème à 40% agissent comme des ancres et font apparaître la dernière proposition de **60%** comme plus impressionnante.
 
 Pour s'en rendre compte on peut inverser la question en demandant quel % des filles **ne finissent pas** l'école primaire :
 
@@ -73,7 +73,7 @@ Ici aussi il est probable que les gens se trompent mais cette fois dans l'autre 
 
 En résumé les formulations des questions, les options proposées, les difficultés relatives des questions, tout est orienté pour que l'interrogé se trompe en sous-estimant le positif et en ayant juste sur le négatif. Ce questionnaire ne prouve pas grand chose, à part qu'Hans Rosling est doué pour rédiger des sondages qui obtiennent les résultats qu'il souhaite.
 
-Quand on écrit sur un livre de faits sur l'état du monde en 2018, difficile de ne pas parler d'environnement, comment Hans Rosling le fait-il ? 
+Ceci étant dit, observons maintenant le traitement qui est fait d’un autre sujet : l’environnement. Quand on écrit sur un livre de faits sur l'état du monde en 2018, difficile de ne pas parler d'environnement, comment Hans Rosling le fait-il ? 
 
 # Le climat dans Factfulness
 
@@ -122,7 +122,7 @@ En 2007 Christian Aid a publié un rapport intitulé ["Human tide: the real migr
 
 >250 million people permanently displaced by climate change-related phenomena such as floods, droughts, famines and hurricanes.
 
-Ce chiffre est expliqué dans une note :
+L'origine de ce chiffre est expliqué dans une note :
 
 >Based on an updated figure calculated by Dr Norman Myers. In 1995, Dr Myers suggested that between 150 and 200 million people would have to permanently leave their homes because of climate change (Norman Myers and Jennifer Kent, Environmental Exodus, Climate Institute, 1995.) This was quoted last year in the UK Government’s Stern Review on the Economics of Climate Change, which described the estimate as being based on ‘conservative assumptions’. Dr Myers now believes that the true figure will be closer to 250 million. Christian Aid interview, 14 March, 2007
 
@@ -145,7 +145,7 @@ Dans ce livre Hans aborde le sujet de la biodiversité avec cette question :
 >En 1996, les tigres, les pandas géants et les rhinocéros noirs furent classés comme espèces en danger. Combien de ces trois espèces sont-elles menacées d'extinction aujourd’hui ?<br/>
 A: 2 d'entre elles<br/>
 B: 1 d'entre elles<br/>
-C: Aucunes<br/>
+C: Aucune<br/>
 
 Comme vous l'avez deviné, tout le monde se trompe et la bonne réponse est la C. Je ne commenterais pas le phrasé et les options proposées qui sont, de nouveau, de petits bijoux d'incitation subtile.
 
@@ -165,12 +165,12 @@ Intéressant ! Pourquoi Hans ne parle t-il que de ces 3 espèces photogéniques 
 
 >Nearly **half** of the 177 mammal species surveyed lost more than 80% of their distribution between 1900 and 2015
 
-Source : [Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines](https://www.pnas.org/content/114/30/E6089)<br/>
+Source: Proceedings of the National Academy of Science of the USA [Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines](https://www.pnas.org/content/114/30/E6089)<br/>
 
 
 >Current rates of extinction are about **1000 times** the likely background rate of extinction
 
-Source : [The biodiversity of species and their rates of extinction, distribution, and protection](https://www.researchgate.net/publication/262787160_The_biodiversity_of_species_and_their_rates_of_extinction_distribution_and_protection
+Source : NCBI [The biodiversity of species and their rates of extinction, distribution, and protection](https://www.researchgate.net/publication/262787160_The_biodiversity_of_species_and_their_rates_of_extinction_distribution_and_protection
 )
 
 >En 40 ans, nous avons perdu **60%** des populations d'animaux sauvages sur Terre
@@ -180,11 +180,11 @@ Source : [Rapport planète vivante, WWF](https://www.wwf.fr/vous-informer/actual
 
 >Les hommes et le bétail représentent 96% des mammifères sur Terre, seulement **4%** des mammifères sont sauvages
 
-Source : [The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506)
+Source : Proceedings of the National Academy of Science of the USA[The biomass distribution on Earth](https://www.pnas.org/content/115/25/6506)
 
 #### Bilan
 
-Hans avait raison, il faut se méfier des exemples soigneusement choisis ! Malheureusement les progrès de ces 3 espèces ne sont pas du tout représentatif de la situation de l'ensemble de la biodiversité. En effet une part de plus en plus grande de la communauté scientifique estime qu'étant donné le rythme jamais observé d'extinction des espèces, nous soyons entrés dans la "6ème extinction de masse".
+Hans avait raison, il faut se méfier des exemples soigneusement choisis ! Malheureusement les progrès de ces 3 espèces ne sont pas du tout représentatifs de la situation de l'ensemble de la biodiversité. En effet une part de plus en plus grande de la communauté scientifique estime qu'étant donné le rythme jamais observé d'extinction des espèces, nous sommes entrés dans la "6ème extinction de masse".
 
 Il y a un sujet brûlant que nous n’avons pas encore abordé : c’est celui des inégalités et de la pauvreté. Quel traitement lui est-il réservé ?
 
@@ -192,13 +192,13 @@ Il y a un sujet brûlant que nous n’avons pas encore abordé : c’est celui d
 
 ## Un monde à 2 bosses ou mono-bosse ?
 
-On parle souvent des pays riches, développées, du Nord et des pays pauvres, en voie de développement, du Sud. Pour Hans Rosling cette distinction n'a maintenant plus de sens:
+On parle souvent des pays riches, développés, du Nord et des pays pauvres, en voie de développement, du Sud. Pour Hans Rosling cette distinction n'a maintenant plus de sens:
 >There is no gap between the West and the Rest, between developed and developing, between rich and poor
 
 Sur ce point il est intraitable et enfonce le clou fermement :
 >This is not controversial. These facts are not up for discussion
 
-Une image illustre spectaculairement ce dont parle Hans. On peut y voir la distribution de la population mondiale en fonction de leur revenu par jour entre 1975 et 2015.<br/><br/>
+Une image illustre spectaculairement ce dont parle Hans. On peut y voir la distribution de la population mondiale en fonction de leur revenu par jour entre 1975 et 2015.Chaque couleur représente un continent.<br/><br/>
  
 ![2 bosses](/assets/images/twohump.png)
 <br/>
@@ -212,13 +212,13 @@ Il y a en effet quelques choses à garder en tête par rapport à ce graphique:
 
 - L'échelle des revenus en abscisse est logarithmique. Cela a pour effet de compresser les revenus des riches avec ceux des pauvres.
 
-- Les valeurs de revenus sont ajustés en PPA (Parité Pouvoir d'Achat).«La PPA est utilisé pour prendre en compte la différence de pouvoir d’achats entre pays riches et pays pauvres. Par exemple, 10$ ne permettant pas de bénéficier du même pouvoir d’achat en Suède ou au Bénin. Pour le calculer, on regarde la différence de prix entre un panier moyen dans différents pays. Le problème est que le PPA est connu pour surestimer le pouvoir d'achat des pauvres vis à vis des riches (en gros parce que les pauvres consomment un ensemble de produits qui sont sous-representés dans les calculs de PPA voir [Pogge, T., & Reddy, S. G. (2005). How Not to Count the Poor. SSRN Electronic Journal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=893159)). La PPA peut-être utile quand on regarde la pauvreté ou l'accès à la consommation mais si l'on s'intéresse à la distribution des revenus, le dollar constant est l'unité la plus adapté.
+- Les valeurs de revenus sont ajustés en PPA (Parité Pouvoir d'Achat).«La PPA est utilisé pour prendre en compte la différence de pouvoir d’achats entre pays riches et pays pauvres. Par exemple, 10$ ne permettant pas de bénéficier du même pouvoir d’achat en Suède ou au Bénin. Pour le calculer, on regarde la différence de prix entre un panier moyen dans différents pays. Le problème est que le PPA est connu pour surestimer le pouvoir d'achat des pauvres vis à vis des riches (en gros parce que les pauvres consomment un ensemble de produits qui sont sous-representés dans les calculs de PPA voir [Pogge, T., & Reddy, S. G. (2005). How Not to Count the Poor. SSRN Electronic Journal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=893159)). La PPA peut-être utile quand on regarde la pauvreté ou l'accès à la consommation mais si l'on s'intéresse à la distribution des revenus, le dollar constant est l'unité la plus adaptée.
 
 - Enfin les catégories Europe, Asie, Amériques, regroupent des pays très différents : Haiti est avec les Etats-Unis et l'Australie est avec le reste de l'Asie. Si l'on veut savoir si une division entre pays riches (global north) et pays pauvres (global south) existe, il faut regrouper les pays selon ces catégories.
 
 Que se passe-t-il si l'on regarde ces données différemment ? Répartissons les pays entre les pays riches (global north sur le graphique): Europe, USA, Canada, Japon, Australie, Nouvelle Zélande, et groupons les pays restants (global south) par régions. Utilisons des dollars constants au lieu de PPA et utilisons une échelle linéaire plutôt que logarithmique en abcisses.
 
-Quand on regarde la répartition de la richesse par habitant en 1960 et 2017, voilà ce qu'on obtient : 
+Quand on regarde la répartition de la richesse par habitant en 1960 et 2017, voilà ce qu'on obtient: 
 
 
 <br/><br/>
@@ -237,11 +237,11 @@ Hans aborde la lutte contre la pauvreté avec ce graphique spectaculaire :
 
 <br/><br/>
 
-On y voit le déclin vertigineux de la pauvreté dans le monde. Déclin dont on ne peu que se réjouir. De nombreux académiques ont néanmoins signalé un certain nombre de problèmes avec ce graphique et ont demandé à ce qu'il soit modifié ou à ce qu'il arrête d'être utilisé pour servir un discours politique. En effet ce graphique a été énormément repris par Bill Gates, Steven Pinker, puis d'autres, pour justifier que "nous allons dans la bonne direction". C'est un débat passionnant et complexe qui montre bien comment le discours dominant peut-être biaisé d'idéologie. Voilà quelques-unes des critiques qui ont été faites à ce graphique :
+On y voit le déclin vertigineux de la pauvreté dans le monde. Déclin dont on ne peut que se réjouir. De nombreux académiques ont néanmoins signalé un certain nombre de problèmes avec ce graphique et ont demandé à ce qu'il soit modifié ou à ce qu'il arrête d'être utilisé pour servir un discours politique. En effet ce graphique a été énormément repris par Bill Gates, Steven Pinker, puis d'autres, pour justifier que "nous allons dans la bonne direction". C'est un débat passionnant et complexe qui montre bien comment le discours dominant peut-être biaisé d'idéologie. Voilà rapidement quelques-unes des critiques qui ont été faites à ce graphique :
 
-- Cette spectaculaire réduction repose sur un seuil de pauvreté de 1,9$/jour. Cet indicateur est en $ parité pouvoir d'achat : aux Etats-Unis en 2011 cela correspond à 1,9$/jour mais dans un pays avec un coût de la vie plus bas ce serait encore moins. Ce seuil est depuis longtemps critiqué pour son inadéquation avec la réalité de la pauvreté. En effet ce niveau de revenu ne permet même pas à un individu de subvenir à ses besoins caloriques dans le cadre d'une activité normal.    [L'économiste David Woodward](https://newint.org/features/special/2010/07/01/poverty-line-definition) a calculé qu'au Royaume-Uni vivre à ce niveau de revenu reviendrait à vivre avec **33 autres personnes** sur 1 salaire minimum, sans aucunes aides, cadeaux, prêts... (En effet toutes ces choses sont pris en compte dans les 1,9$).
-- Avant 1970 les données viennent d'une source différente avec une méthodologie différente qui n'est pas faite pour mesurer la pauvreté mais la distribution des PIBs entre pays. De ce fait, ces données ont d'importantes limitations qui ne permettent pas de les utiliser pour la la pauvreté. Ce graphique devrait donc commencer en 1970. Mais cela serait bien moins impressionnat c'est vrai.
-- On ne peut que se réjouir que la pauvreté diminue. Mais est-ce une bonne mesure du progrès de notre société ? D'un point de vue moral, on peut argumenter que ce qui compte n'est pas l'étendue de la pauvreté en soi mais l'étendue de la pauvreté _vis à vis de notre capacité à la faire disparaître_ (c'est l'approche proposé par le philosophe Thomas Pogge). Selon cette mesure l'histoire est radicalement différente. En effet, entre 1990 et 2013 notre capacité à mettre fin à la pauvreté (e.g. la proportion des revenus des non-pauvres nécessaire pour mettre fin à la pauvreté) a augmenté remarquablement plus vite que la pauvreté n'a diminué. En 1990, il aurait fallu 10,5% des revenus des non-pauvres pour mettre fin à la pauvreté ; en 2013 il suffit de 3,3%. Notre capacité à mettre fin à la pauvreté a donc été multiplié par 3,18. Dans la même période le taux de pauvreté n'a été réduit que d'un facteur 1,23. Ainsi, l'immoralité flagrante de notre société en 2013 est 2,58 fois pire qu'en 1990. La raison derrière cette désolante évolution est que l'immense majorité de la richesse supplémentaire créé entre 1990 et 2013 a été capté par les plus riches.
+- Cette spectaculaire réduction repose sur un seuil de pauvreté de 1,9$/jour. Cet indicateur est en $ parité pouvoir d'achat : aux Etats-Unis en 2011 cela correspond à 1,9$/jour mais dans un pays avec un coût de la vie plus bas ce serait encore moins. Ce seuil est depuis longtemps critiqué pour son inadéquation avec la réalité de la pauvreté. En effet ce niveau de revenu ne permet même pas à un individu de subvenir à ses besoins caloriques dans le cadre d'une activité normal.    [L'économiste David Woodward](https://newint.org/features/special/2010/07/01/poverty-line-definition) a calculé qu'au Royaume-Uni vivre à ce niveau de revenu reviendrait à vivre avec **33 autres personnes** sur 1 salaire minimum, sans aucunes aides, cadeaux, prêts... (En effet toutes ces choses sont prises en compte dans les 1,9$).
+- Avant 1970 les données viennent d'une source différente avec une méthodologie différente qui n'est pas faite pour mesurer la pauvreté mais la distribution des PIBs entre pays. De ce fait, ces données ont d'importantes limitations qui ne permettent pas de les utiliser pour la la pauvreté. Ce graphique devrait donc commencer en 1970. Mais cela serait bien moins impressionnant c'est vrai.
+- On ne peut que se réjouir que la pauvreté diminue. Mais est-ce une bonne mesure du progrès de notre société ? D'un point de vue moral, on peut argumenter que ce qui compte n'est pas l'étendue de la pauvreté en soi mais l'étendue de la pauvreté _vis à vis de notre capacité à la faire disparaître_ (c'est l'approche proposée par le philosophe Thomas Pogge). Selon cette mesure l'histoire est radicalement différente. En effet, entre 1990 et 2013 notre capacité à mettre fin à la pauvreté (e.g. la proportion des revenus des non-pauvres nécessaire pour mettre fin à la pauvreté) a augmenté remarquablement plus vite que la pauvreté n'a diminué. En 1990, il aurait fallu 10,5% des revenus des non-pauvres pour mettre fin à la pauvreté ; en 2013 il suffit de 3,3%. Notre capacité à mettre fin à la pauvreté a donc été multipliée par 3,18. Dans la même période le taux de pauvreté n'a été réduit que d'un facteur 1,23. Ainsi, l'immoralité flagrante de notre société en 2013 est 2,58 fois pire qu'en 1990. La raison derrière cette désolante évolution est que l'immense majorité de la richesse supplémentaire créé entre 1990 et 2013 a été captée par les plus riches.
 
 Pour mieux comprendre ce débat, je recommande de lire cette [brillante critique](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty) du graphique de Jason Hickel (en anglais) dont j'ai reproduit les arguments ici.
 
@@ -255,8 +255,8 @@ Pour mieux comprendre ce débat, je recommande de lire cette [brillante critique
 
 J'ai lu ce livre pour la 1ère fois en 2018, à ce moment là je l'ai trouvé remarquable et j'en suis sorti soulagé et enthousiaste sur le futur. Deux ans plus tard, après être allé plus loin dans beaucoup des sujets qu'il aborde, j'ai la désagréable sensation d'avoir été manipulé. Il faut reconnaître que ce livre corrige certainement des idées fausses sur l'état du monde. Le problème est qu'il les remplace par d'autres idées fausses, celles-ci bien plus dangereuses.
 
-La force de ce livre est qu'il repose sur des faits. Néanmoins la sélection et le traitement de ces faits est extrêmement biaisé pour montrer ce qui va bien et ignorer ce qui va mal. Cela pourrait se comprendre si le titre du livre était "Tout ce qui va bien dans le monde aujourd'hui". Néanmoins Hans Rosling déclare en introduction que ce livre "est à propos du monde et comment il est *véritablement*". Pourtant, page après page, Hans Rosling ne parle que des aspects des sujets qui l'arrangent. Quand il parle de la qualité de l'air, il montre la diminution de la concentration en dioxyde de soufre mais pas celle des particules fines (qui aurait montré la tendance inverse). Quand il parle de la biodiversité, il tombe malencontreusement dans les mêmes pièges méthodologiques qu'il dénonce, en sélectionnant 3 exemples (tigres, pandas et rhinos) exceptionnels au vue de la tendance générale.
+La force de ce livre est qu'il repose sur des faits. Néanmoins la sélection et le traitement de ces faits est extrêmement biaisé pour montrer ce qui va bien et ignorer ce qui va mal. Cela pourrait se comprendre si le titre du livre était "Tout ce qui va bien dans le monde aujourd'hui". Néanmoins Hans Rosling déclare en introduction que ce livre "est à propos du monde et comment il est *véritablement*". Pourtant, page après page, Hans Rosling ne parle que des aspects des sujets qui l'arrangent. Quand il parle de la qualité de l'air, il montre la diminution de la concentration en dioxyde de soufre mais pas celle des particules fines (qui aurait montré la tendance inverse). Quand il parle de la biodiversité, il tombe malencontreusement dans les mêmes pièges méthodologiques qu'il dénonce, en sélectionnant trois exemples (tigres, pandas et rhinos) exceptionnels au vue de la tendance générale.
 
-Un autre problème est la superficialité de l'analyse qu'il propose. Hans Rosling montre très bien le lien entre la croissance du PIB et tout un tas de choses positives : l'augmentation de l'espérance de vie, du niveau de vie, une meilleure éducation. Ces liens sont en effet importants (même si on peut argumenter que ces progrès ne sont pas seulement dus à la croissance du PIB mais aussi aux politiques progressistes qui ont été mis en place). En revanche, les liens, encore plus robustes, entre PIB et émissions de gaz à effet de serre, consommation de ressources, consommation d'énergie, empreinte écologique ne sont jamais faits. La compréhension de cette mécanique devrait pourtant être la base de toute réflexion sur le futur. Le futur, c'est justement ce qui préoccupe de plus en plus de gens. Ainsi, ce qu'Hans Rosling ne semble pas comprendre, c'est qu'il est possible d'être conscient que certaines choses se sont beaucoup améliorées, et de penser que cela ne va pas nécessairement se poursuivre dans le futur, étant donné que les crises environnementales qui commencent (dont on ne voit que le début) ne sont que le début de la facture de notre consommation d'environnement passée.
+Un autre problème est la superficialité de l'analyse qu'il propose. Hans Rosling montre très bien le lien entre la croissance du PIB et tout un tas de choses positives : l'augmentation de l'espérance de vie, du niveau de vie, une meilleure éducation. Ces liens sont en effet importants (même si on peut argumenter que ces progrès ne sont pas seulement dus à la croissance du PIB mais aussi aux politiques progressistes qui ont été mises en place). En revanche, les liens, encore plus robustes, entre PIB et émissions de gaz à effet de serre, consommation de ressources, consommation d'énergie, empreinte écologique ne sont jamais faits. La compréhension de cette mécanique devrait pourtant être la base de toute réflexion sur le futur. Le futur, c'est justement ce qui préoccupe de plus en plus de gens. Ainsi, ce qu'Hans Rosling ne semble pas comprendre, c'est qu'il est possible d'être conscient que certaines choses se sont beaucoup améliorées, et de penser que cela ne va pas nécessairement se poursuivre dans le futur, étant donné que les crises environnementales qui commencent (dont on ne voit que le début) ne sont que le début de la facture de notre consommation d'environnement passée.
 
-Bref, ce livre me fait penser à une mauvaise conférence TED, c'est très bien vulgarisé, c'est excitant mais dès qu'on y regarde de plus près, c'est trompeur. Tout cela est assez décevant étant donné l'aura médiatique dont a bénéficié Hans Rosling et ce livre. Comment alors expliquer le succès de ce récit ? C'est un sujet intéressant à creuser. Pour moi, une partie de la réponse est que, face à la douloureuse froideur du constat, maintenant solidement établis, de la non-soutenabilité de notre monde, ce livre exploite à merveille notre réflexe psychologique le plus naturel : le déni. Tout va bien, ces crises ne sont qu'un mauvais rêve créé par des prophètes de malheur, le futur est ra-dieux.
+Bref, ce livre me fait penser à une mauvaise conférence TED, c'est très bien vulgarisé, c'est excitant mais dès qu'on y regarde de plus près, c'est trompeur. Tout cela est assez décevant étant donné l'aura médiatique dont ont bénéficié Hans Rosling et ce livre. Comment alors expliquer le succès de ce récit ? C'est un sujet intéressant à creuser. Pour moi, une partie de la réponse est que, face à la douloureuse froideur du constat, maintenant solidement établis, de la non-soutenabilité de notre monde, ce livre exploite à merveille notre réflexe psychologique le plus naturel : le déni. Tout va bien, ces crises ne sont qu'un mauvais rêve créé par des prophètes de malheur, le futur est ra-dieux.
